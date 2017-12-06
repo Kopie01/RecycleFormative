@@ -1,17 +1,15 @@
 <?php 
 
 /*
-	Template Name: Home Page
+	Template Name: Large Header Image
 */
 
  ?>
-
+ 
+ <img src="<?php header_image(); ?>" height="<?php echo get_custom_header()->height; ?>">
  <?php get_header(); ?>
 
 
-
-
-	
 
 	<div class="row">
 		<div class="col-xs-12 col-sm-8">
@@ -39,9 +37,9 @@
 		</div>
 	</div>
 
-	<br>
-	<br>
-
+	
+<br>
+<br>
 
 
 

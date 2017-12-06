@@ -1,4 +1,4 @@
-// alert("js is linked in");
-jQuery(document).ready(function($){
+
+jQuery(document).ready(function(){
 
 })
